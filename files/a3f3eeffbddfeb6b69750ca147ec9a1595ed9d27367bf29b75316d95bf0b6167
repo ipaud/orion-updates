@@ -1,0 +1,299 @@
+[
+  {
+    "id": "david",
+    "name": "David Ortega",
+    "age": 10,
+    "role": "Cliente habitual",
+    "likes": [
+      "adventure",
+      "children",
+      "sci_fi"
+    ],
+    "request": [
+      "adventure",
+      "children"
+    ],
+    "request_text": "aventura",
+    "schedule": "tarde",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-10-01",
+    "greeting": [
+      "¿Tienes alguna de aventuras?"
+    ]
+  },
+  {
+    "id": "eva",
+    "name": "Eva",
+    "age": 16,
+    "role": "Cliente habitual",
+    "likes": [
+      "scary",
+      "weird"
+    ],
+    "request": [
+      "scary"
+    ],
+    "request_text": "terror",
+    "schedule": "tarde/noche",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-10-01",
+    "greeting": [
+      "¿Tienes algo de terror...",
+      "Algo más real, sin monstruos."
+    ]
+  },
+  {
+    "id": "manolo",
+    "name": "Manolo",
+    "age": 48,
+    "role": "Taxista",
+    "likes": [
+      "western",
+      "action",
+      "classic"
+    ],
+    "request": [
+      "western",
+      "action"
+    ],
+    "request_text": "acción o del oeste",
+    "schedule": "noche",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-10-01",
+    "greeting": [
+      "¡Buenas, jefe! ¿Hay alguna",
+      "del oeste que no haya visto?"
+    ]
+  },
+  {
+    "id": "marta",
+    "name": "Marta",
+    "age": 24,
+    "role": "Bellas Artes",
+    "likes": [
+      "experimental",
+      "slow",
+      "weird"
+    ],
+    "request": [
+      "experimental",
+      "weird"
+    ],
+    "request_text": "cine experimental",
+    "schedule": "tarde",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-10-01",
+    "greeting": [
+      "¿Tienes algo diferente?",
+      "Me gustan las películas raras."
+    ]
+  },
+  {
+    "id": "oscar",
+    "name": "Óscar Lamas",
+    "age": 35,
+    "role": "Cinéfilo",
+    "likes": [
+      "classic",
+      "mystery",
+      "psychological"
+    ],
+    "request": [
+      "classic",
+      "mystery"
+    ],
+    "request_text": "cine clásico o de misterio",
+    "schedule": "tarde/noche",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-10-19",
+    "greeting": [
+      "¿Algo de suspense de los buenos?",
+      "Que me haga pensar después."
+    ]
+  },
+  {
+    "id": "montse",
+    "name": "Montse Vidal",
+    "age": 41,
+    "role": "Madre de dos",
+    "likes": [
+      "family",
+      "children",
+      "funny"
+    ],
+    "request": [
+      "family",
+      "funny"
+    ],
+    "request_text": "algo para toda la familia",
+    "schedule": "tarde",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-10-28",
+    "greeting": [
+      "Algo para ver con las niñas.",
+      "Que no dé miedo, por favor."
+    ],
+    "avoids": [
+      "scary",
+      "gore",
+      "violent"
+    ]
+  },
+  {
+    "id": "ferrer",
+    "name": "Señor Ferrer",
+    "age": 74,
+    "role": "Vecino del tercero",
+    "likes": [
+      "classic",
+      "western",
+      "romantic"
+    ],
+    "request": [
+      "classic"
+    ],
+    "request_text": "una de las de antes",
+    "schedule": "tarde",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-11-12",
+    "greeting": [
+      "¿Tiene alguna de las de antes?",
+      "De cuando el cine era cine."
+    ],
+    "avoids": [
+      "gore"
+    ]
+  },
+  {
+    "id": "ricardo",
+    "name": "Ricardo Salvatierra",
+    "age": 47,
+    "role": "Antiguo técnico",
+    "likes": [
+      "sci_fi",
+      "slow",
+      "mystery"
+    ],
+    "request": [
+      "sci_fi",
+      "mystery"
+    ],
+    "request_text": "ciencia ficción seria",
+    "schedule": "noche",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-10-26",
+    "greeting": [
+      "Ciencia ficción. De la seria.",
+      "Sin rayos láser."
+    ]
+  },
+  {
+    "id": "lucia",
+    "name": "Lucía Herrero",
+    "age": 20,
+    "role": "Estudiante de enfermería",
+    "likes": [
+      "romantic",
+      "funny",
+      "family"
+    ],
+    "request": [
+      "romantic",
+      "funny"
+    ],
+    "request_text": "algo bonito o de risa",
+    "schedule": "tarde",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-10-23",
+    "greeting": [
+      "Algo bonito, o de risa.",
+      "Necesito olvidar el hospital."
+    ],
+    "avoids": [
+      "gore"
+    ]
+  },
+  {
+    "id": "toni",
+    "name": "Toni Rayo",
+    "age": 29,
+    "role": "Mensajero",
+    "likes": [
+      "action",
+      "sci_fi",
+      "violent"
+    ],
+    "request": [
+      "action"
+    ],
+    "request_text": "acción a tope",
+    "schedule": "noche",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-10-21",
+    "greeting": [
+      "¡Acción! Explosiones, tiros,",
+      "persecuciones. Lo que tengas."
+    ]
+  },
+  {
+    "id": "rosa",
+    "name": "Rosa Peña",
+    "age": 56,
+    "role": "Bar de enfrente",
+    "likes": [
+      "romantic",
+      "classic",
+      "funny"
+    ],
+    "request": [
+      "romantic",
+      "slow"
+    ],
+    "request_text": "un dramón o una clásica",
+    "schedule": "tarde/noche",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-11-05",
+    "greeting": [
+      "Algo para llorar a gusto, cariño.",
+      "Un dramón de los gordos."
+    ]
+  },
+  {
+    "id": "iker",
+    "name": "Iker Soto",
+    "age": 12,
+    "role": "Amigo de David",
+    "likes": [
+      "sci_fi",
+      "adventure",
+      "creatures"
+    ],
+    "request": [
+      "sci_fi",
+      "creatures"
+    ],
+    "request_text": "naves y bichos",
+    "schedule": "tarde",
+    "confidence": 0,
+    "memory": [],
+    "since": "1998-11-02",
+    "greeting": [
+      "¿Tienes de naves espaciales?",
+      "¡O de bichos gigantes!"
+    ],
+    "avoids": [
+      "gore"
+    ]
+  }
+]
